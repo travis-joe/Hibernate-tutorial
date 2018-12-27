@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="hibernate.cfg.xml/Hibernate" uuid="f62b8974-1614-4ed4-ac89-4e480b9f350f">
+    <data-source source="LOCAL" name="hibernate.cfg.xml/Hibernate" uuid="f90f2a27-05c2-4885-864b-dcf751073f41">
       <imported>true</imported>
       <configured-by-url>true</configured-by-url>
       <remarks>Hibernate
 
-/Users/qiucengyuan/develop/Hibernate-tutorial/src/hibernate.cfg.xml</remarks>
+D:/develop/Hibernate-tutorial/src/hibernate.cfg.xml</remarks>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&amp;serverTimezone=UTC</jdbc-url>
     </data-source>
